@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "id": "500",
+            "name": "Wild Grey High Neck Polo For Men",
+            "imgUrl": "https://cf3.s3.souqcdn.com/item/2018/02/10/30/62/72/91/item_XXL_30627291_110308873.jpg",
+            "price": 200,
+            "type": 1,
+            "gender": 1,
+            "companyId": "111",
+            "reviews": [
+                {
+                    "username": "Ahmed",
+                    "rate": 4.5
+                },
+                {
+                    "username": "Ahmed",
+                    "rate": 4.5
+                },
+                {
+                    "username": "Kamal",
+                    "rate": 4.5
+                },
+                {
+                    "username": "Ali",
+                    "rate": 4
+                },
+                {
+                    "username": "Eslam",
+                    "rate": 3.5
+                },
+                {
+                    "username": "Amr",
+                    "rate": 5
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "name":"Eslam",
+    "age" : "22",
+    "address" : [
+        {"first" : "357 w manga", "Second" : "egypt"},
+        {"first" : "5007 w egy", "Second" : "egyyy"}
+    ],
+    "jobsHistory": ["developer","deigner","tester"]
+}
